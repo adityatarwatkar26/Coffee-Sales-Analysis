@@ -82,12 +82,14 @@ The dashboard includes the following key features:
 Opportunity: Optimize marketing for low-performing products and weekend sales.
 
   🏆 Key Takeaways
+  
   📈 Revenue growth is consistent, but monthly targets are narrowly missed.
   ☕ Coffee-based products significantly outperform tea-based products.
   📅 Customers buy more in the first half of the month, especially Thursdays & Fridays.
   📌 Stores should promote weaker products strategically or phase them out to optimize sales.
 
 📂 Project Files
+
     Coffee_Sales_Dashboard.xlsx → Interactive dashboard file.
     Screenshot.png → Snapshot of the dashboard (included for quick reference).
     README.md → Project documentation.
