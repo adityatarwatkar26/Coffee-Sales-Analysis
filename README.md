@@ -2,9 +2,6 @@
 # Coffee-Sales-Analysis
 ☕ Coffee Sales Analysis Dashboard
 
-![Coffee](<img width="1536" height="1024" alt="Coffee_Beans_image" src="https://github.com/user-attachments/assets/eecaf3fc-d95a-4606-9461-9a3d3fd8cafa" />)
-
-
 
 This project provides a Coffee Sales Analysis Dashboard built in Excel to track and analyze sales performance across multiple locations. The dashboard is designed for quick insights into revenue trends, product performance, and customer purchasing patterns.
 
