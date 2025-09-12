@@ -53,6 +53,7 @@ The dashboard includes the following key features:
    Lower Manhattan
 
 🎯 **Business Insights**
+
     Best-selling products drive over $21k each in revenue.
     Sales targets are being closely monitored; June fell short by $5,914.66.
     Fridays and Mondays are the strongest days for sales.
