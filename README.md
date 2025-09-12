@@ -1,22 +1,22 @@
-☕#**Coffee Sales Analysis Dashboard**(H1)
+☕**Coffee Sales Analysis Dashboard**(H1)
 
 
 <img width="1090" height="592" alt="Dashboard" src="https://github.com/adityatarwatkar26/Coffee-Sales-Analysis/blob/main/Coffee_Beans_image.png" />
 
-🚀 Project Overview
+🚀 **Project Overview**
    This dashboard provides a comprehensive sales analysis for coffee outlets.
    It highlights revenue trends, product performance, and customer purchasing patterns to support data-driven decision-making.
    This project provides a Coffee Sales Analysis Dashboard built in Excel to track and analyze sales performance across multiple locations. 
    The dashboard is designed for quick insights into revenue trends, product performance, and customer purchasing patterns.
 
-   📈 Results & Insights
+   📈 **Results & Insights**
    
       Revenue by Month
       Sales showed steady growth from January ($81,677.74) to May ($156,727.76).
       June closed at $166,485.88, slightly missing the target of $172,400.54 by $5,915.66.
       Strong upward trend overall → consistent revenue improvement.
 
-📊 Dashboard Overview
+📊 **Dashboard Overview**
 
 The dashboard includes the following key features:
 
@@ -51,7 +51,7 @@ The dashboard includes the following key features:
    Hell’s Kitchen
    Lower Manhattan
 
-🎯 Business Insights
+🎯 **Business Insights**
     Best-selling products drive over $21k each in revenue.
     Sales targets are being closely monitored; June fell short by $5,914.66.
     Fridays and Mondays are the strongest days for sales.
