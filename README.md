@@ -65,3 +65,4 @@ Opportunity: Optimize marketing for low-performing products and weekend sales.
     Connect with external data sources (e.g., SQL, CSV imports).
 
 Dashboard Preview
+Screenshot 2025-09-12 153613.png
