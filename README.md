@@ -2,8 +2,7 @@
 # Coffee-Sales-Analysis
 ☕ Coffee Sales Analysis Dashboard
 
-![](<img width="1536" height="1024" alt="Coffee_Beans_image" src="https://github.com/user-attachments/assets/eecaf3fc-d95a-4606-9461-9a3d3fd8cafa" />
-)
+![Coffee](<img width="1536" height="1024" alt="Coffee_Beans_image" src="https://github.com/user-attachments/assets/eecaf3fc-d95a-4606-9461-9a3d3fd8cafa" />)
 
 
 
