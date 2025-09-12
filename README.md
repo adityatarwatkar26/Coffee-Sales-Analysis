@@ -1,6 +1,6 @@
 
 # Coffee-Sales-Analysis
-☕ Coffee Sales Analysis Dashboard
+☕ 
 
 <img width="1090" height="592" alt="Dashboard" src="https://github.com/adityatarwatkar26/Coffee-Sales-Analysis/blob/main/Coffee_Beans_image.png" />
 
