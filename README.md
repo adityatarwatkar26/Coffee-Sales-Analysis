@@ -1,6 +1,9 @@
-"C:\Users\ASUS\Downloads\Coffee_Beans_image.png"
+
 # Coffee-Sales-Analysis
 ☕ Coffee Sales Analysis Dashboard
+![Uploading Coffee_Beans_image.png…]()
+
+
 
 This project provides a Coffee Sales Analysis Dashboard built in Excel to track and analyze sales performance across multiple locations. The dashboard is designed for quick insights into revenue trends, product performance, and customer purchasing patterns.
 
