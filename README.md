@@ -1,6 +1,7 @@
 
 # Coffee-Sales-Analysis
 ☕ Coffee Sales Analysis Dashboard
+
 ![Uploading Coffee_Beans_image.png…]()
 
 
