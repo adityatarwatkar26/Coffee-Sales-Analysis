@@ -10,6 +10,7 @@
    The dashboard is designed for quick insights into revenue trends, product performance, and customer purchasing patterns.
 
    📈 Results & Insights
+   
       Revenue by Month
       Sales showed steady growth from January ($81,677.74) to May ($156,727.76).
       June closed at $166,485.88, slightly missing the target of $172,400.54 by $5,915.66.
