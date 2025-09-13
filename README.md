@@ -10,7 +10,7 @@
    This project provides a Coffee Sales Analysis Dashboard built in Excel to track and analyze sales performance across multiple locations. 
    The dashboard is designed for quick insights into revenue trends, product performance, and customer purchasing patterns.
 
-   📈 **Results & Insights**
+   📈 <H3>**Results & Insights**</H3>
    
    Revenue by Month
    - Sales showed steady growth from January ($81,677.74) to May ($156,727.76).
