@@ -65,7 +65,7 @@ The dashboard includes the following key features:
 🤝 Contributing
     Feel free to fork this repository, suggest improvements, or share new insights.
 
-<H>**Dashboard Preview**</H2>
+<H1**Dashboard Preview**/H1>
 <img width="1090" height="592" alt="Dashboard" src="https://github.com/user-attachments/assets/e28949f7-4133-406e-b44a-6fdeb7aa5917" />
 
 
