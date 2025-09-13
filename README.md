@@ -75,9 +75,9 @@ The dashboard includes the following key features:
    📌 Insight: Customers prefer organic & premium beverages.
 
     Bottom 10 Products
-    - Morning Sunrise Chai ($1,596) and Serenity Green Tea ($1,470.75) are least popular.
-    - Specialty teas (Peppermint, Earl Grey, etc.) show low demand.
-   📌 - Insight: Focus marketing on coffee-based drinks, reduce low-selling teas.
+    Morning Sunrise Chai ($1,596) and Serenity Green Tea ($1,470.75) are least popular.
+    Specialty teas (Peppermint, Earl Grey, etc.) show low demand.
+   📌 Insight: Focus marketing on coffee-based drinks, reduce low-selling teas.
 
 Opportunity: Optimize marketing for low-performing products and weekend sales.
 
