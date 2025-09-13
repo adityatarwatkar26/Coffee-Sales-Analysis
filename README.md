@@ -88,25 +88,6 @@ Opportunity: Optimize marketing for low-performing products and weekend sales.
   📅 Customers buy more in the first half of the month, especially Thursdays & Fridays.
   📌 Stores should promote weaker products strategically or phase them out to optimize sales.
 
-📂 Project Files
-
-    Coffee_Sales_Dashboard.xlsx → Interactive dashboard file.
-    Screenshot.png → Snapshot of the dashboard (included for quick reference).
-    README.md → Project documentation.
-
-🚀 How to Use
-    Open the Excel file.
-    Use the filters (store location, day, time) to customize analysis.
-    Explore monthly trends, product performance, and customer behavior.
-
-🛠️ Tools & Technologies
-    Microsoft Excel (PivotTables, PivotCharts, Conditional Formatting, Slicers).
-    Data Visualization for actionable insights.
-
-📌 Future Enhancements
-    Automate data refresh using Power Query.
-    Connect with external data sources (e.g., SQL, CSV imports).
-
 
 🤝 Contributing
     Feel free to fork this repository, suggest improvements, or share new insights.
