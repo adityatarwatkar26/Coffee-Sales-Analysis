@@ -13,9 +13,9 @@
    📈 **Results & Insights**
    
    Revenue by Month
-   Sales showed steady growth from January ($81,677.74) to May ($156,727.76).
-   June closed at $166,485.88, slightly missing the target of $172,400.54 by $5,915.66.
-   Strong upward trend overall → consistent revenue improvement.
+   - Sales showed steady growth from January ($81,677.74) to May ($156,727.76).
+   - June closed at $166,485.88, slightly missing the target of $172,400.54 by $5,915.66.
+   - Strong upward trend overall → consistent revenue improvement.
 
 📊 **Dashboard Overview**
 
