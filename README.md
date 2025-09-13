@@ -52,35 +52,6 @@ The dashboard includes the following key features:
    Hell’s Kitchen
    Lower Manhattan
 
-🎯 **Business Insights**
-
-    Best-selling products drive over $21k each in revenue.
-    Sales targets are being closely monitored; June fell short by $5,914.66.
-    Fridays and Mondays are the strongest days for sales.
-    Morning hours (8 AM – 12 PM) dominate daily sales.
-
-    Weekly Pattern
-    Friday (14.55%) and Thursday (14.52%) recorded the highest transactions.
-    Saturday (13.75%) had the lowest engagement.
-    Insight: End-of-week sales peak, while weekends slow down.
-
-   Daily Pattern
-    Highest sales activity between 7th – 10th of the month (over 11% each).
-    Gradual decline after mid-month with lows around 19th – 20th (3–4%).
-    Insight: Customer purchases cluster around the first half of the month.
-
-    Top 10 Products
-    Sustainably Grown Organic Lg ($21,151.75) and Dark Chocolate Lg ($21,006.05) lead sales.
-    Latte Rg and Cappuccino Lg also perform strongly.
-   📌 Insight: Customers prefer organic & premium beverages.
-
-    Bottom 10 Products
-    Morning Sunrise Chai ($1,596) and Serenity Green Tea ($1,470.75) are least popular.
-    Specialty teas (Peppermint, Earl Grey, etc.) show low demand.
-   📌 Insight: Focus marketing on coffee-based drinks, reduce low-selling teas.
-
-Opportunity: Optimize marketing for low-performing products and weekend sales.
-
   🏆 Key Takeaways
   
   📈 Revenue growth is consistent, but monthly targets are narrowly missed.
