@@ -62,7 +62,8 @@ The dashboard includes the following key features:
   📌 Stores should promote weaker products strategically or phase them out to optimize sales.
 
 
-🤝 Contributing
+🤝 <H3>**Contributing**</H3>
+
     Feel free to fork this repository, suggest improvements, or share new insights.
 
 <H1>Dashboard Preview</H1>
