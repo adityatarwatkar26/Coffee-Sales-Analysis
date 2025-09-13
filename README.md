@@ -52,7 +52,9 @@ The dashboard includes the following key features:
    Hell’s Kitchen
    Lower Manhattan
 
-  🏆 Key Takeaways
+
+
+  🏆 **Key Takeaways**
   
   📈 Revenue growth is consistent, but monthly targets are narrowly missed.
   ☕ Coffee-based products significantly outperform tea-based products.
