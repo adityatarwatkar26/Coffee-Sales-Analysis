@@ -111,7 +111,7 @@ Opportunity: Optimize marketing for low-performing products and weekend sales.
 🤝 Contributing
     Feel free to fork this repository, suggest improvements, or share new insights.
 
-Dashboard Preview
+**Dashboard Preview**
 <img width="1090" height="592" alt="Dashboard" src="https://github.com/user-attachments/assets/e28949f7-4133-406e-b44a-6fdeb7aa5917" />
 
 
