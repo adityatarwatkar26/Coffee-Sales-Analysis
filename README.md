@@ -3,7 +3,7 @@
 
 <img width="1090" height="592" alt="Dashboard" src="https://github.com/adityatarwatkar26/Coffee-Sales-Analysis/blob/main/Coffee_Beans_image.png" />
 
-🚀 **Project Overview**
+🚀 <H3>**Project Overview**</H3>
 
    This dashboard provides a comprehensive sales analysis for coffee outlets.
    It highlights revenue trends, product performance, and customer purchasing patterns to support data-driven decision-making.
@@ -17,7 +17,7 @@
    - June closed at $166,485.88, slightly missing the target of $172,400.54 by $5,915.66.
    - Strong upward trend overall → consistent revenue improvement.
 
-📊 **Dashboard Overview**
+📊 <H3>**Dashboard Overview**</H3>
 
 The dashboard includes the following key features:
 
@@ -54,7 +54,7 @@ The dashboard includes the following key features:
 
 
 
-  🏆 **Key Takeaways**
+  🏆 <H3>**Key Takeaways**</H3>
   
   📈 Revenue growth is consistent, but monthly targets are narrowly missed.
   ☕ Coffee-based products significantly outperform tea-based products.
@@ -65,7 +65,7 @@ The dashboard includes the following key features:
 🤝 Contributing
     Feel free to fork this repository, suggest improvements, or share new insights.
 
-<H1**Dashboard Preview**/H1>
+<H1>Dashboard Preview</H1>
 <img width="1090" height="592" alt="Dashboard" src="https://github.com/user-attachments/assets/e28949f7-4133-406e-b44a-6fdeb7aa5917" />
 
 
