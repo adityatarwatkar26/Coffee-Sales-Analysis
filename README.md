@@ -3,7 +3,7 @@
 
 <img width="1090" height="592" alt="Dashboard" src="https://github.com/adityatarwatkar26/Coffee-Sales-Analysis/blob/main/Coffee_Beans_image.png" />
 
-🚀<H2>**Project Overview**</H2>
+🚀<H1>**Project Overview**</H1>
 <img width="1127" height="588" alt="Screenshot 2025-09-14 214442" src="https://github.com/user-attachments/assets/9bf55c19-6923-487c-a8e5-e30cb4a38547" />
 
 
