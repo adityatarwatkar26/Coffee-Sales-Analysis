@@ -13,13 +13,7 @@
    The dashboard is designed for quick insights into revenue trends, product performance, and customer purchasing patterns.
    
 
-   📈<H2>**Results & Insights**</H2>
    
-   Revenue by Month
-   - Sales showed steady growth from January ($81,677.74) to May ($156,727.76).
-   - June closed at $166,485.88, slightly missing the target of $172,400.54 by $5,915.66.
-   - Strong upward trend overall → consistent revenue improvement.
-
 📊<H2>**Dashboard Overview**</H2>
 
 The dashboard includes the following key features:
@@ -54,6 +48,14 @@ The dashboard includes the following key features:
    Astoria
    Hell’s Kitchen
    Lower Manhattan
+
+📈<H2>**Results & Insights**</H2>
+   
+Revenue by Month
+- Sales showed steady growth from January ($81,677.74) to May ($156,727.76).
+- June closed at $166,485.88, slightly missing the target of $172,400.54 by $5,915.66.
+- Strong upward trend overall → consistent revenue improvement.
+
 
 
 
