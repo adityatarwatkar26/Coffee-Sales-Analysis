@@ -4,6 +4,8 @@
 <img width="1090" height="592" alt="Dashboard" src="https://github.com/adityatarwatkar26/Coffee-Sales-Analysis/blob/main/Coffee_Beans_image.png" />
 
 🚀<H2>**Project Overview**</H2>
+<img width="1127" height="588" alt="Screenshot 2025-09-14 214442" src="https://github.com/user-attachments/assets/9bf55c19-6923-487c-a8e5-e30cb4a38547" />
+
 
    This dashboard provides a comprehensive sales analysis for coffee outlets.
    It highlights revenue trends, product performance, and customer purchasing patterns to support data-driven decision-making.
@@ -67,8 +69,7 @@ The dashboard includes the following key features:
 
 Feel free to fork this repository, suggest improvements, or share new insights.
 
-<H1>Dashboard Preview</H1>
-<img width="1127" height="588" alt="Screenshot 2025-09-14 214442" src="https://github.com/user-attachments/assets/d231102b-be25-4dc5-88ee-35e7538edf85" />
+
 
 
 
