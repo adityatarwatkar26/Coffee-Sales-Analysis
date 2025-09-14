@@ -9,6 +9,7 @@
    It highlights revenue trends, product performance, and customer purchasing patterns to support data-driven decision-making.
    This project provides a Coffee Sales Analysis Dashboard built in Excel to track and analyze sales performance across multiple locations. 
    The dashboard is designed for quick insights into revenue trends, product performance, and customer purchasing patterns.
+   
 
    📈<H2>**Results & Insights**</H2>
    
