@@ -3,21 +3,21 @@
 
 <img width="1090" height="592" alt="Dashboard" src="https://github.com/adityatarwatkar26/Coffee-Sales-Analysis/blob/main/Coffee_Beans_image.png" />
 
-🚀 <H3>**Project Overview**</H3>
+🚀 <H2>**Project Overview**</H2>
 
    This dashboard provides a comprehensive sales analysis for coffee outlets.
    It highlights revenue trends, product performance, and customer purchasing patterns to support data-driven decision-making.
    This project provides a Coffee Sales Analysis Dashboard built in Excel to track and analyze sales performance across multiple locations. 
    The dashboard is designed for quick insights into revenue trends, product performance, and customer purchasing patterns.
 
-   📈 <H3>**Results & Insights**</H3>
+   📈 <H2>**Results & Insights**</H2>
    
    Revenue by Month
    - Sales showed steady growth from January ($81,677.74) to May ($156,727.76).
    - June closed at $166,485.88, slightly missing the target of $172,400.54 by $5,915.66.
    - Strong upward trend overall → consistent revenue improvement.
 
-📊 <H3>**Dashboard Overview**</H3>
+📊 <H2>**Dashboard Overview**</H2>
 
 The dashboard includes the following key features:
 
@@ -54,7 +54,7 @@ The dashboard includes the following key features:
 
 
 
-  🏆 <H3>**Key Takeaways**</H3>
+  🏆 <H2>**Key Takeaways**</H2>
   
   📈 Revenue growth is consistent, but monthly targets are narrowly missed.
   ☕ Coffee-based products significantly outperform tea-based products.
@@ -62,7 +62,7 @@ The dashboard includes the following key features:
   📌 Stores should promote weaker products strategically or phase them out to optimize sales.
 
 
-🤝 <H3>**Contributing**</H3>
+🤝 <H2>**Contributing**</H2>
 
 Feel free to fork this repository, suggest improvements, or share new insights.
 
