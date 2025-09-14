@@ -1,4 +1,4 @@
-☕<H1>**Coffee Sales Analysis**</H1>
+ ☕<H1>**Coffee Sales Analysis**</H1>
 
 
 <img width="1090" height="592" alt="Dashboard" src="https://github.com/adityatarwatkar26/Coffee-Sales-Analysis/blob/main/Coffee_Beans_image.png" />
