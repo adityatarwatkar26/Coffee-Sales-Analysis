@@ -14,7 +14,7 @@
    
 
    
-📊<H2>**Dashboard Overview**</H2>
+<H2>**Dashboard Overview**</H2>
 
 The dashboard includes the following key features:
 
@@ -91,7 +91,7 @@ Very few transactions before 7 AM (3.08%) and after 6 PM (declining to 0.40% at 
 - Sunday records slightly lower activity (~14.1%), showing a mild weekend dip.
 - Saturday has the lowest activity (~13.7%), indicating reduced user engagement at the end of the week.
 
-🏆<H2>**Key Takeaways**</H2>
+<H2>**Key Takeaways**</H2>
   
   📈 Revenue growth is consistent, but monthly targets are narrowly missed.
   ☕ Coffee-based products significantly outperform tea-based products.
@@ -106,7 +106,7 @@ Revenue by Month
 - Strong upward trend overall → consistent revenue improvement.
 
 
-🤝<H2>**Contributing**</H2>
+<H2>**Contributing**</H2>
 
 Feel free to fork this repository, suggest improvements, or share new insights.
 
