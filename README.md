@@ -1,9 +1,9 @@
- <H1>**Coffee Sales Analysis**</H1>
+ <H1>Starbucks Sales Analysis</H1>
 
 
 <img width="1090" height="592" alt="Dashboard" src="https://github.com/adityatarwatkar26/Coffee-Sales-Analysis/blob/main/Coffee_Beans_image.png" />
 
-<H1>**Project Overview**</H1>
+<H1>Project Overview</H1>
 <img width="1127" height="588" alt="Screenshot 2025-09-14 214442" src="https://github.com/user-attachments/assets/9bf55c19-6923-487c-a8e5-e30cb4a38547" />
 
 
