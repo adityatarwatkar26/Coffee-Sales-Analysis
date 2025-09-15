@@ -1,5 +1,5 @@
  <H1>Starbucks Sales Analysis</H1>
-<img width="426" height="240" alt="image" src="https://github.com/user-attachments/assets/44cd2f9c-c93d-45e1-8709-57599ed0b422" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/44cd2f9c-c93d-45e1-8709-57599ed0b422" />
 
 <H1>Tool Used :</H1>
 <img width="358" height="358" alt="microsoft-excel" src="https://github.com/user-attachments/assets/eeb954b3-8c16-4f20-8efe-146aa651a6c4" />
