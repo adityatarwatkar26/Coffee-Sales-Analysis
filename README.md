@@ -1,10 +1,11 @@
  <H1>Starbucks Sales Analysis</H1>
 
-<img width="1536" height="1024" alt="Coffee_Beans_image" src="https://github.com/user-attachments/assets/63443f83-e288-45e6-96ec-97270971102c" />
+![starbucks image](https://github.com/user-attachments/assets/2c22157d-8253-44a1-8ee2-6acafdd6cbd6)
 
 
 <H1>Project Overview</H1>
-![starbucks image](https://github.com/user-attachments/assets/cfdd4e13-e0d8-4b07-9fe9-9c08364bb095)
+<img width="1127" height="587" alt="Screenshot 2025-09-15 153255" src="https://github.com/user-attachments/assets/46b4793f-4325-46db-9d21-e3668fc50f5a" />
+
 
 
 
