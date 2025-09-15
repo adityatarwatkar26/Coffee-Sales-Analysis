@@ -1,9 +1,9 @@
- ☕<H1>**Coffee Sales Analysis**</H1>
+ <H1>**Coffee Sales Analysis**</H1>
 
 
 <img width="1090" height="592" alt="Dashboard" src="https://github.com/adityatarwatkar26/Coffee-Sales-Analysis/blob/main/Coffee_Beans_image.png" />
 
-🚀<H1>**Project Overview**</H1>
+<H1>**Project Overview**</H1>
 <img width="1127" height="588" alt="Screenshot 2025-09-14 214442" src="https://github.com/user-attachments/assets/9bf55c19-6923-487c-a8e5-e30cb4a38547" />
 
 
@@ -89,22 +89,25 @@ Very few transactions before 7 AM (3.08%) and after 6 PM (declining to 0.40% at 
 
 - Engagement drops significantly after 6 PM, showing minimal activity late in the day.
 
-  🏆<H2>**Key Takeaways**</H2>
   
-  📈 Revenue growth is consistent, but monthly targets are narrowly missed.
-  ☕ Coffee-based products significantly outperform tea-based products.
-  📅 Customers buy more in the first half of the month, especially Thursdays & Fridays.
-  📌 Stores should promote weaker products strategically or phase them out to optimize sales.
-
 <H1>Weekly Pattern</H1>
 <img width="2455" height="1421" alt="Weekly pattern" src="https://github.com/user-attachments/assets/75730635-bd96-4157-ac48-910e4387b5e2" />
  
 
 • Monday, Thursday, and Friday show the highest transaction activity (~14.5%), suggesting stronger engagement on working days.
+
 • Tuesday and Wednesday maintain a steady mid-level range (~14.2–14.3%).
+
 • Sunday records slightly lower activity (~14.1%), showing a mild weekend dip.
+
 • Saturday has the lowest activity (~13.7%), indicating reduced user engagement at the end of the week.
 
+🏆<H2>**Key Takeaways**</H2>
+  
+  📈 Revenue growth is consistent, but monthly targets are narrowly missed.
+  ☕ Coffee-based products significantly outperform tea-based products.
+  📅 Customers buy more in the first half of the month, especially Thursdays & Fridays.
+  📌 Stores should promote weaker products strategically or phase them out to optimize sales.
 
 🤝<H2>**Contributing**</H2>
 
