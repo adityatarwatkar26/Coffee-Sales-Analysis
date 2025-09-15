@@ -53,6 +53,9 @@ The dashboard includes the following key features:
    Hell’s Kitchen
    Lower Manhattan
 
+<H1>Tool Used</H1>
+<img width="618" height="348" alt="microsoft-excel" src="https://github.com/user-attachments/assets/eeb954b3-8c16-4f20-8efe-146aa651a6c4" />
+
   
 <H1>Daily Pattern</H1>
 <img width="2799" height="1791" alt="Daujlyu pattern" src="https://github.com/user-attachments/assets/16022d45-658c-41b3-bb06-0b894173ab03" />
