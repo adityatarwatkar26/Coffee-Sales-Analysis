@@ -84,9 +84,7 @@ Very few transactions before 7 AM (3.08%) and after 6 PM (declining to 0.40% at 
 
 
 - The morning hours (8–10 AM) are the most critical time window for transactions.
-
 - After 11 AM, activity stabilizes but at a moderate level until the evening.
-
 - Engagement drops significantly after 6 PM, showing minimal activity late in the day.
 
   
@@ -94,13 +92,10 @@ Very few transactions before 7 AM (3.08%) and after 6 PM (declining to 0.40% at 
 <img width="2455" height="1421" alt="Weekly pattern" src="https://github.com/user-attachments/assets/75730635-bd96-4157-ac48-910e4387b5e2" />
  
 
-• Monday, Thursday, and Friday show the highest transaction activity (~14.5%), suggesting stronger engagement on working days.
-
-• Tuesday and Wednesday maintain a steady mid-level range (~14.2–14.3%).
-
-• Sunday records slightly lower activity (~14.1%), showing a mild weekend dip.
-
-• Saturday has the lowest activity (~13.7%), indicating reduced user engagement at the end of the week.
+- Monday, Thursday, and Friday show the highest transaction activity (~14.5%), suggesting stronger engagement on working days.
+- Tuesday and Wednesday maintain a steady mid-level range (~14.2–14.3%).
+- Sunday records slightly lower activity (~14.1%), showing a mild weekend dip.
+- Saturday has the lowest activity (~13.7%), indicating reduced user engagement at the end of the week.
 
 🏆<H2>**Key Takeaways**</H2>
   
