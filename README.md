@@ -1,6 +1,6 @@
  <H1>Starbucks Sales Analysis</H1>
 
-<img width="758" height="758" alt="pinterest" src="https://github.com/user-attachments/assets/2c22157d-8253-44a1-8ee2-6acafdd6cbd6" />
+<img width="1080" height="1080" alt="pinterest" src="https://github.com/user-attachments/assets/2c22157d-8253-44a1-8ee2-6acafdd6cbd6" />
 
 <H1>Tool Used</H1>
 <img width="358" height="358" alt="microsoft-excel" src="https://github.com/user-attachments/assets/eeb954b3-8c16-4f20-8efe-146aa651a6c4" />
