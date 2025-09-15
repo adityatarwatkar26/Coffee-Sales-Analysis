@@ -49,12 +49,6 @@ The dashboard includes the following key features:
    Hell’s Kitchen
    Lower Manhattan
 
-📈<H2>**Results & Insights**</H2>
-   
-Revenue by Month
-- Sales showed steady growth from January ($81,677.74) to May ($156,727.76).
-- June closed at $166,485.88, slightly missing the target of $172,400.54 by $5,915.66.
-- Strong upward trend overall → consistent revenue improvement.
   
 <H1>Daily Pattern</H1>
 <img width="2799" height="1791" alt="Daujlyu pattern" src="https://github.com/user-attachments/assets/16022d45-658c-41b3-bb06-0b894173ab03" />
@@ -103,6 +97,14 @@ Very few transactions before 7 AM (3.08%) and after 6 PM (declining to 0.40% at 
   ☕ Coffee-based products significantly outperform tea-based products.
   📅 Customers buy more in the first half of the month, especially Thursdays & Fridays.
   📌 Stores should promote weaker products strategically or phase them out to optimize sales.
+
+<H2>**Results & Insights**</H2>
+   
+Revenue by Month
+- Sales showed steady growth from January ($81,677.74) to May ($156,727.76).
+- June closed at $166,485.88, slightly missing the target of $172,400.54 by $5,915.66.
+- Strong upward trend overall → consistent revenue improvement.
+
 
 🤝<H2>**Contributing**</H2>
 
