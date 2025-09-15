@@ -98,7 +98,7 @@ Very few transactions before 7 AM (3.08%) and after 6 PM (declining to 0.40% at 
   📅 Customers buy more in the first half of the month, especially Thursdays & Fridays.
   📌 Stores should promote weaker products strategically or phase them out to optimize sales.
 
-<H2>**Results & Insights**</H2>
+<H2>Results & Insights</H2>
    
 Revenue by Month
 - Sales showed steady growth from January ($81,677.74) to May ($156,727.76).
