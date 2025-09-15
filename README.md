@@ -58,9 +58,33 @@ Revenue by Month
   
 <H1>Daily Pattern</H1>
 <img width="2799" height="1791" alt="Daujlyu pattern" src="https://github.com/user-attachments/assets/16022d45-658c-41b3-bb06-0b894173ab03" />
+📊 Daily Transaction Pattern
+<H3>Overview</H3>
+This visualization represents the hourly distribution of transactions throughout the day. Each bar shows the percentage of total transactions occurring within that hour.
+<H3>Key Insights</H3>
 
+⏰ Peak Hours (8 AM – 10 AM):
 
+8 AM: 11.84%
 
+9 AM: 11.91%
+
+10 AM: 12.44% (Highest activity)
+➝ Transactions are heavily concentrated in the morning, especially between 8–10 AM.
+
+📉 Moderate Activity (11 AM – 5 PM):
+
+Transactions remain fairly stable, around 5.8% – 6.5% each hour.
+➝ Indicates consistent engagement during working hours.
+
+🌙 Low Activity (Before 7 AM & After 6 PM):
+
+Very few transactions before 7 AM (3.08%) and after 6 PM (declining to 0.40% at 8 PM).
+➝ Suggests limited user interaction in early morning and late evening.
+
+-The morning hours (8–10 AM) are the most critical time window for transactions.
+-After 11 AM, activity stabilizes but at a moderate level until the evening.
+-Engagement drops significantly after 6 PM, showing minimal activity late in the day.
 
   🏆<H2>**Key Takeaways**</H2>
   
