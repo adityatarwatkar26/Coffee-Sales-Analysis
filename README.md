@@ -4,7 +4,7 @@
 
 
 <H1>Project Overview</H1>
-<img width="1127" height="588" alt="Screenshot 2025-09-14 214442" src="https://github.com/user-attachments/assets/9bf55c19-6923-487c-a8e5-e30cb4a38547" />
+<img width="1127" height="587" alt="Screenshot 2025-09-15 153255" src="https://github.com/user-attachments/assets/dcf31ee8-bf02-4445-8e67-da0b53c1733b" />
 
 
    This dashboard provides a comprehensive sales analysis for coffee outlets.
