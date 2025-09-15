@@ -3,7 +3,7 @@
 ![starbucks image](https://github.com/user-attachments/assets/2c22157d-8253-44a1-8ee2-6acafdd6cbd6)
 
 <H1>Tool Used</H1>
-<img width="318" height="348" alt="microsoft-excel" src="https://github.com/user-attachments/assets/eeb954b3-8c16-4f20-8efe-146aa651a6c4" />
+<img width="318" height="148" alt="microsoft-excel" src="https://github.com/user-attachments/assets/eeb954b3-8c16-4f20-8efe-146aa651a6c4" />
 
 
 
