@@ -58,7 +58,7 @@ Revenue by Month
   
 <H1>Daily Pattern</H1>
 <img width="2799" height="1791" alt="Daujlyu pattern" src="https://github.com/user-attachments/assets/16022d45-658c-41b3-bb06-0b894173ab03" />
-📊 Daily Transaction Pattern
+
 <H3>Overview</H3>
 This visualization represents the hourly distribution of transactions throughout the day. Each bar shows the percentage of total transactions occurring within that hour.
 <H3>Key Insights</H3>
@@ -95,6 +95,15 @@ Very few transactions before 7 AM (3.08%) and after 6 PM (declining to 0.40% at 
   ☕ Coffee-based products significantly outperform tea-based products.
   📅 Customers buy more in the first half of the month, especially Thursdays & Fridays.
   📌 Stores should promote weaker products strategically or phase them out to optimize sales.
+
+<H1>Weekly Pattern</H1>
+<img width="2455" height="1421" alt="Weekly pattern" src="https://github.com/user-attachments/assets/75730635-bd96-4157-ac48-910e4387b5e2" />
+ 
+
+• Monday, Thursday, and Friday show the highest transaction activity (~14.5%), suggesting stronger engagement on working days.
+• Tuesday and Wednesday maintain a steady mid-level range (~14.2–14.3%).
+• Sunday records slightly lower activity (~14.1%), showing a mild weekend dip.
+• Saturday has the lowest activity (~13.7%), indicating reduced user engagement at the end of the week.
 
 
 🤝<H2>**Contributing**</H2>
