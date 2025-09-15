@@ -82,6 +82,7 @@ Transactions remain fairly stable, around 5.8% – 6.5% each hour.
 Very few transactions before 7 AM (3.08%) and after 6 PM (declining to 0.40% at 8 PM).
 ➝ Suggests limited user interaction in early morning and late evening.
 
+
 -The morning hours (8–10 AM) are the most critical time window for transactions.
 
 -After 11 AM, activity stabilizes but at a moderate level until the evening.
